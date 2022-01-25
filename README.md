@@ -1,2 +1,1 @@
-# centraluseuap-swatest-dotnet-isolated-60
-canary dotnet isolated
+# centralus-swatest-node-16
